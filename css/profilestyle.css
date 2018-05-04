@@ -1,0 +1,127 @@
+ .bg-1 {
+      background-color: #1abc9c;
+      color: #ffffff;
+      padding-bottom: 25px;
+  }
+  .bg-2 {
+      background-color: #474e5d;
+      color: #ffffff;
+  }
+
+.bg-3 {
+      background-color: #1abc9c;
+      color: #ffffff;
+  }
+
+.backcol{
+    background-color: #b5b5b7;
+}
+.navbar {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+
+  border: 0px;
+  border-radius: 0;
+  border-color: #252839 !important ;
+  border-width: 0 0 1px;
+
+  font-size: 115% !important;
+  letter-spacing: 2px;
+  background-color: #252839 !important ;
+  color: #ffffff !important;
+}
+
+.navbar-nav  li a:hover {
+    color: #6090c4 !important;
+    background-color: #3c415d !important;
+  }
+
+.active-but{
+    background-color: #3c415d;
+}
+
+.about-text{
+        padding-top: 80px;
+
+}
+
+.texx{
+  color: #f2b632 !important;
+  font-size: 140% !important;
+     letter-spacing: 3px;
+  font-family: 'Kaushan Script', cursive;
+  background-color: #000000 !important;
+
+}
+
+  .topbuttons{
+    color:#ffffff !important;
+    font-size: 70% !important;
+  }
+
+
+  .myimg{
+    padding-top: 80px;
+    padding-bottom: 35px;
+  }
+
+  .myname{
+    text-shadow: 2px 2px 2px #000;
+  }
+
+.bio{
+  font-size: 120%;
+}
+.contact-details{
+  color: #ffffff;
+  background-color: #09182D !important;
+  padding: 20px !important;
+  border-color: #1abc9c !important;
+  border-left-color:#1abc9c !important;
+  border-left-style:solid !important;
+  border-left-width:40px !important;
+  border-right-width: 40px !important;
+  border-right-color:#1abc9c !important;
+  border-right-style:solid !important;
+}
+
+.emptyrow{
+  padding: 2%;
+  background-color: #1abc9c;
+}
+
+.logos{
+  margin: 15px !important;
+}
+
+.logo :hover {
+    border-radius: 0px !important;
+  border: 2px solid #f2b632 !important;
+  background-color: #f2b632 !important;
+}
+
+
+.email-link{
+  background-color: #09182D !important;
+  color: #ffffff !important;
+  border-color: #09182D !important ;
+}
+
+
+.education-details{
+  padding:  2%;
+  margin: 2% !important ;
+}
+
+.project-details{
+  color: #fff;
+    padding:  2% ;
+background-color: #677077;
+  margin: 2% !important ;
+}
+
+.weblink{
+  color:  #fff !important ;
+}

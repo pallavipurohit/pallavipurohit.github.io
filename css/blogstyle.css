@@ -1,0 +1,124 @@
+
+.backcol{
+    background-color: #b5b5b7;
+}
+
+.navbar {
+  padding-right: 0;
+  padding-left: 0;
+  padding-top: 0.3%;
+  padding-bottom: 0.3%;
+
+  border: 0px;
+  border-radius: 0;
+  border-color: #252839 !important ;
+  border-width: 0 0 1px;
+
+  font-size: 115% !important;
+  letter-spacing: 2px;
+  background-color: #252839 !important ;
+  color: #ffffff !important;
+}
+
+.navbar-nav  li a:hover {
+    color: #6090c4 !important;
+    background-color: #3c415d !important;
+  }
+
+.texx{
+  color: #f2b632 !important;
+  font-size: 140% !important;
+   letter-spacing: 3px;
+  font-family: 'Kaushan Script', cursive;
+  background-color: #000000 !important;
+
+}
+
+  .topbuttons{
+    color:#ffffff !important;
+    font-size: 70% !important;
+  }
+
+
+.active-but{
+    background-color: #3c415d;
+}
+
+
+.navbar-nav  li a:hover {
+    color: #6090c4 !important;
+    background-color: #3c415d !important;
+  }
+
+
+.toptext{
+  background-color: #1abc9c;
+  padding: 3%;
+  color: white;
+}
+
+.welcomehead{
+  color: #ffffff;
+  font-size: 60px;
+  font-family: 'Yesteryear', cursive;
+  text-shadow: 2px 2px 2px #000;
+
+}
+
+.blg {
+  margin-top: 2%;
+  padding: 3%;
+  background-color: #ffffff !important ;
+   border: 1.5px solid #e6e6e6;
+}
+
+.blghead{
+  color: #f2b632;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.blgcontent{
+  color: #000000;
+}
+
+
+
+
+.img-responsive {margin:0 auto;}
+
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+  padding-top: 20px;
+  background-color: #ffffff;
+  height: 150%;
+ border: 2px solid #e6e6e6;
+}
+
+.main-body{
+  padding-top: 35px !important;
+  background-color: #f4f4f4 !important;
+}
+
+/* Set black background color, white text and some padding */
+footer {
+  background-color: #555;
+  color: white;
+  padding: 15px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+  .sidenav {
+    height: auto;
+    padding: 15px;
+  }
+
+.row.content {height:auto;}
+
+}
+
+

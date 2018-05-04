@@ -1,0 +1,48 @@
+
+.backcol{
+    background-color: #b5b5b7;
+}
+  .navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    border-right: 10;
+    font-size: 16px !important;
+    letter-spacing: 5px;
+
+
+    background-color: #252839 !important ;
+    border-color: #252839 !important ;
+    color: #ffffff !important;
+    top: 0;
+    border-width: 0 0 1px;
+
+     padding-right: 0;
+    padding-left: 0;
+  }
+  .navbar-nav  li a:hover {
+    color: #6090c4 !important;
+  }
+.texx{
+  color: #f2b632 !important;
+  font-weight: bold !important;
+  font-size: 100% !important;
+  background-color: #000000 !important;
+
+}
+
+  .topbuttons{
+    color:#ffffff !important;
+    font-size: 70% !important;
+  }
+
+img{
+  padding: 30px ;
+}
+
+
+.active-but{
+    background-color: #3c415d;
+}
